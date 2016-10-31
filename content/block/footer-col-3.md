@@ -1,4 +1,3 @@
-####BTH Webbprogrammering
+####Länkar
 
-* [Gitter Chat](https://gitter.im/mosbth/design)
-* [It's Learning](https://bth.itslearning.com/DashboardMenu.aspx?LocationType=Hierarchy)
+* [Marcus på Facebook](http://facebook.com/marcussn)
