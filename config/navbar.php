@@ -37,7 +37,7 @@ return [
 
 
 
-/*
+
     // Used as menu together with responsive menu
     // Name of this menu
     "navbarMax" => [
@@ -61,9 +61,15 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
+
+            "about2" => [
+                "text"  => t("About2"),
+                "url"   => $this->di->get("url")->create("about"),
+                "title" => t("Om den här sidan 2")
+            ],
         ],
     ],
-*/
+
 
 
     /**
