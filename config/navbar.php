@@ -24,11 +24,11 @@ return [
             "about" => [
                 "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("Om den här websidan")
+                "title" => t("Om den här webbsidan")
             ],
 
             "testsida" => [
-                "text"  => t("Test"),
+                "text"  => t("Testsida"),
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("En testsida")
             ],
@@ -50,22 +50,22 @@ return [
         "items" => [
 
             "report" => [
-                "text"  => t("Report"),
+                "text"  => t("Redovisningar"),
                 "url"   => $this->di->get("url")->create("report"),
-                "title" => t("Reports from kmom assignments"),
+                "title" => t("Redovisningar för kursmomentens uppgifter"),
                 "mark-if-parent" => true,
             ],
 
             "about" => [
-                "text"  => t("About"),
+                "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("Om den här webbsidan")
             ],
 
-            "about2" => [
-                "text"  => t("About2"),
-                "url"   => $this->di->get("url")->create("about"),
-                "title" => t("Om den här sidan 2")
+            "testsida" => [
+                "text"  => t("Testsida"),
+                "url"   => $this->di->get("url")->create("test"),
+                "title" => t("En testsida")
             ],
         ],
     ],
