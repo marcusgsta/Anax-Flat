@@ -31,3 +31,19 @@ Det här är ett [exempel på länk som går till en sida om markdown](https://d
     <body><a href="En länk">En länkadress som inte går att klicka</a>
 
 Vanlig paragraftext ser ut så här. Ett annat typsnitt.
+
+Och så en tabell:
+
+<table style="border-spacing: 4px; border-collapse: separate">
+<tr>
+<td>#E21F30</td>
+<td>#FFFFFF</td>
+<td>#C0BAA2</td>
+</tr>
+<tr>
+
+<td style="background-color: #E21F30">
+<td style="background-color: #FFFFFF">
+<td style="background-color: #C0BAA2">
+</tr>
+</table>
