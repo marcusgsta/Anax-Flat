@@ -43,7 +43,6 @@ return [
             "title"      => "Enhance the light theme by adding a tiny bit of color",
             "class"      => "color",
             "stylesheets" => [
-              "css/modules.min.css",
               "css/color.min.css"
             ]
         ],
@@ -52,7 +51,7 @@ return [
             "title"      => "Dark background and light text",
             "class"      => "dark",
             "stylesheets" => [
-              "css/modules.min.css",
+              // "css/modules.min.css",
               "css/dark.min.css"
             ]
         ],
@@ -61,7 +60,7 @@ return [
             "title"      => "Make a very colorful theme",
             "class"      => "colorful",
             "stylesheets" => [
-              "css/modules.min.css"
+              "css/colorful.min.css"
             ]
         ],
 
@@ -69,7 +68,6 @@ return [
             "title"      => "A theme where the typography really stands out",
             "class"      => "light",
             "stylesheets" => [
-              "css/modules.min.css",
               "css/typography.min.css"
             ]
         ],
