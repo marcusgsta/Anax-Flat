@@ -68,6 +68,12 @@ return [
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("images")
             ],
+
+            "Blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg")
+            ],
         ],
     ],
 
@@ -138,6 +144,12 @@ return [
                 "text"  => t("Bilder"),
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("images")
+            ],
+
+            "Blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg")
             ],
         ],
     ],
