@@ -1,9 +1,9 @@
 ---
-titleBreadcrumb: Analys 1
+titleBreadcrumb: Analys av webbplatsers färgscheman
 ...
 
 
-Analys 1
+Analys av webbplatsers färgscheman
 ========
 
 Case 1: www.vapiano.se
