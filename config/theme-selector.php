@@ -28,6 +28,24 @@ return [
             ]
         ],
 
+        "separator01" => "------------------------------------------------",
+
+        "vgrid"      => [
+            "title"      => "Vertikalt grid",
+            "class"      => "",
+            "stylesheets" => [
+                "css/vgrid.min.css"
+            ]
+        ],
+
+        "hgrid"      => [
+            "title"      => "Typografiskt grid",
+            "class"      => "",
+            "stylesheets" => [
+                "css/hgrid.min.css"
+            ]
+        ],
+
         "separator1" => "------------------------------------------------",
 
         "light"     =>  [
@@ -78,7 +96,6 @@ return [
             "title"      => "All fun, test and play, make it stand out!",
             "class"      => "fun",
             "stylesheets" => [
-              "css/modules.min.css",
               "css/fun.min.css"
             ]
         ],

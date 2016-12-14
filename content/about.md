@@ -8,7 +8,7 @@ Källkoden för den här filen är tillgänglig på GitHub på
 Den här sidan skapades av Marcus Gustafsson för delkursen Design i
 distansutbildningen Webbprogrammering vid BTH.
 <figure>
-<img src="img/laptop_beach.jpg" alt="Laptop at beach">
+<img src="img/laptop_beach.jpg?width=550&crop-to-fit" alt="Laptop at beach">
 <figcaption>
 Jag hade gärna suttit här och jobbat med kursen..
 Foto cred:
