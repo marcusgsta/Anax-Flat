@@ -1,4 +1,4 @@
-Analys av webbplatsers laddningstider och användbarhet
+Laddningstid och användbarhet
 --------------------
 
 Webbsidorna jag har valt är en sida om litteratur, en dagstidning, en sida om webbutveckling och en myndighets webbsida. Alltså sidor som kommer ifrån ganska skilda kategorier, det privata och det offentliga, media och en sida från webbranschen själv.
@@ -11,8 +11,8 @@ Den insamlade rådatan finns här:
 ####[http://debutant.nu](http://debutant.nu) – en sida om litteratur####
 
 
-[FIGURE src="image/screenshot-debutant.nu.png"]
-
+[FIGURE src="image/screenshot-debutant.nu.png?w=690"]
+<!-- &save-as=jpg&q=80 -->
 
 <table>
 <tr>
@@ -42,7 +42,7 @@ på användarupplevelse. Det är kul att sidan fortfarande är snabb, men jag ka
 
 ####[http://sydsvenskan.se](http://sydsvenskan.se) – en dagstidning####
 
-[FIGURE src="image/screenshot-sydsvenskan.png"]
+[FIGURE src="image/screenshot-sydsvenskan.png?w=690"]
 
 
 <table>
@@ -76,7 +76,10 @@ Bilder går att reducera med 114 KB, vilket inte är så mycket jämför med sid
 
 ####[https://developer.mozilla.org](https://developer.mozilla.org) - en företag som sysslar med webbutveckling####
 
-[FIGURE src="image/screenshot-mozilla.png"]
+<!-- [FIGURE src="image/screenshot-mozilla.png?width=600"] -->
+[FIGURE src="image/screenshot-mozilla.png?w=690"]
+
+<!-- ?src=kodim23.png&w=300&save-as=jpg -->
 
 <table>
 <tr>
@@ -102,7 +105,7 @@ Mozillas utvecklarsida borde naturligtvis få höga betyg, och infriar åtminsto
 
 
 ####[http://skatteverket.se](http://skatteverket.se) - en myndighet####
-[FIGURE src="image/screenshot-skatteverket.png"]
+[FIGURE src="image/screenshot-skatteverket.png?w=690"]
 
 <table>
 <tr>

@@ -85,8 +85,8 @@ En ruta stod öppen. Den salta vårluften spelade in och spände ut röken från
 
 Rhenvinet tindrade i glasen.
 
-[FIGURE src="image/screenshot-1.png"]
-[FIGURE src="image/screenshot-2.png"]
+[FIGURE src="image/screenshot-1.png?width=550"]
+[FIGURE src="image/screenshot-2.png?width=550"]
 
 
 — Det är sant, inföll Hall, du kan gärna gå med på operan i kväll. Jag köpte ett par biljetter åt mig och Jean Arvidson, men han blev hindrad. Går du med?

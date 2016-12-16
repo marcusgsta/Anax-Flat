@@ -3,15 +3,14 @@ titleBreadcrumb: Analys av webbplatsers färgscheman
 ...
 
 
-Analys av webbplatsers färgscheman
+Färgschema
 ========
 
 Case 1: www.vapiano.se
 -----------------------
 
-<figure class="screenshot">
-<img src="img/vapiano.jpg" alt="Screenshot av vapiano.se">
-</figure>
+
+[FIGURE class="screenshot" src="image/vapiano.png?w=690&save-as=jpg&q=80" alt="Screenshot av vapiano.se"]
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -56,9 +55,12 @@ Färgvalet ger ett ljust och välkomnande intryck. Rött sägs höja aptiten. De
 Case 2: www.gp.se
 -----
 
-<figure class="screenshot">
+<!-- <figure class="screenshot">
 <img src="img/gp-screenshot.jpg" alt="Screenshot av gp.se">
-</figure>
+</figure> -->
+
+[FIGURE class="screenshot" src="image/gp-screenshot.jpg?w=690" alt="Screenshot av gp.se"]
+
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -96,9 +98,12 @@ Färgvalet get ett seriöst intryck. Det är nedtonat med mycket vitt och grått
 Case 3: www.itsnicethat.com
 -----
 
-<figure class="screenshot">
+<!-- <figure class="screenshot">
 <img src="img/itsnicethat-screenshot.jpg" alt="Screenshot av itsnicethat.com">
-</figure>
+</figure> -->
+
+[FIGURE class="screenshot" src="image/itsnicethat-screenshot.jpg?w=690" alt="Screenshot av itsnicethat.com"]
+
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -142,9 +147,12 @@ Färgvalet med nedtonad bakgrund känns logiskt och bjuder in till att lyfta fra
 Case 4: www.putput.dk
 -----
 
-<figure class="screenshot">
+<!-- <figure class="screenshot">
 <img src="img/putput-screenshot.jpg" alt="Screenshot av putput.dk">
-</figure>
+</figure> -->
+
+[FIGURE class="screenshot" src="image/putput-screenshot.jpg?w=690" alt="Screenshot av putput.dk"]
+
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
