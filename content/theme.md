@@ -110,3 +110,18 @@ Här har jag satt en bakgrund som är full av rörelse och riktning. Linjerna f�
 
 Jag har ramat in de olika elementen i borders, och man kan också säga att designen bygger på ett gridsystem. Bakgrunden är en typ av grid, fast diagonal. Det har också skapats ett djup i bilden, i kontrasten mellan bakgrund och förgrund.
 Bakgrund från [freepik.com](http://freepik.com);
+
+
+**Designelement**
+
+*Fotobakgrund*
+
+Det här temat har ett foto som bakgrund. Jag har använt cimage för att beskära, förändra färg och göra det ljusare. Fotot ger också textur till sidan, i form av ett mönster av vattendroppar. I footern använder jag opacity så att bakgrunden lyser igenom. Sidan sträcker sig över hela skärmen.
+
+*Gradients*
+
+Här använder jag gradients så att ett regnbågsmönster bildas på flera ställen i designen, både i header, footer och i body. Här används också streck i en utpräglad prickad border som också har rundats kring texten. Den här sidan har centrerat innehåll.
+
+*Images*
+
+Ett tema med multipla bakgrundsbilder. En landskapsbild som täcker hela sidan, och en mindre bild av en uggla som flyger.

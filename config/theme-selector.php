@@ -125,5 +125,29 @@ return [
               "css/frame.min.css"
             ]
         ],
+
+        "photo-background"       => [
+            "title"      => "Photo-background",
+            "class"      => "photo",
+            "stylesheets" => [
+              "css/photo.min.css"
+            ]
+        ],
+
+        "gradients"       => [
+            "title"      => "Gradients",
+            "class"      => "gradients",
+            "stylesheets" => [
+              "css/gradients.min.css"
+            ]
+        ],
+
+        "images"       => [
+            "title"      => "Images",
+            "class"      => "images",
+            "stylesheets" => [
+              "css/images.min.css"
+            ]
+        ],
     ]
 ];
