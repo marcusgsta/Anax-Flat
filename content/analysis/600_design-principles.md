@@ -1,14 +1,16 @@
 Designprinciper
 ------
-Urval
----
+*Urval*
+
 
 Jag har valt några olika musuemssajter. Då jag upptäckte att flera stora museum var ganska lika så gjorde jag en sökning efter museum som uppmärksammats för bra design. Jag valde sedan museum från delvis olika geografiska platser, och som skulle skilja sig åt och vara intressanta på något sätt.
 
 
-http://fotografiska.eu/
+#http://fotografiska.eu/#
 
-Mål och syfte: Att ge information om museets aktuella utställningar, öppettider, biljettpriser, hur man hittar dit, restaurant, kalender, kurser med mera. Att locka folk till museet. Kanske finns också ett pedagogiskt syfte, att vilja upplysa och engagera människor.
+*Mål och syfte*
+
+Att ge information om museets aktuella utställningar, öppettider, biljettpriser, hur man hittar dit, restaurant, kalender, kurser med mera. Att locka folk till museet. Kanske finns också ett pedagogiskt syfte, att vilja upplysa och engagera människor.
 
 Som hos andra museumsajter är det de utställda objekten, här fotografierna, som lyfts fram i designen. Det första som möter en är en helskärmsbild av popartisten Sara Larsson som möter betraktarens blick. Det är ett foto ur Albert Wikings utställning We Have A Dream. Scrollar man ner så ser man att hon pekar finger åt oss.
 
@@ -23,20 +25,23 @@ Ett museum med växlande utställningar har ju möjligheten att låta sin webbpl
 
 Om förstaintrycket lockar besökare? Ja, jag kan själv tänka mig att se den frontade uställningen.
 
-Kontrast. Detta är kanske det som mest kännetecknar sidan. Vit text på mörk eller svart bakgrund. Spelet mellan mörkt och ljust ger också en fin balans.
+*Kontrast.* Detta är kanske det som mest kännetecknar sidan. Vit text på mörk eller svart bakgrund. Spelet mellan mörkt och ljust ger också en fin balans.
 
-Balans. När de olika elementens visuella tyngd är i balans med varandra. Fotografiskas logo uppe till höger, meny- och öppettiderknapp till vänster, Larssons huvud i mitten, och texten om utställningen till vänster om huvudet, skapar en bra balans i sidan.
+*Balans.* När de olika elementens visuella tyngd är i balans med varandra. Fotografiskas logo uppe till höger, meny- och öppettiderknapp till vänster, Larssons huvud i mitten, och texten om utställningen till vänster om huvudet, skapar en bra balans i sidan.
 
-Negativt utrymme / Negative space. Området omkring Larssons huvud är mörkt och skapar rymd, lyfter fram de objekt man "ska" titta på.
+*Negativt utrymme / Negative space.* Området omkring Larssons huvud är mörkt och skapar rymd, lyfter fram de objekt man "ska" titta på.
 
 Undersidan för den framhävda utställningen liknar framsidan. Man scrollar ner och möts också av två bilder, av Dalai Lama och Malala, som ställts emot varandra, en väl vald balans mellan ung och gammal kan man nog säga.
 
 Undersidorna är sparsmakade, de går i samma stil som man förväntar sig av framsidan, men här finns mer information och text.
 
-http://hirshhorn.si.edu/collection/home/#collection=home
-Hirshhorn Museum, Washington
+#http://hirshhorn.si.edu#
 
-Mål och syfte: Att skapa intresse för museet, informera om öppettider, aktuella utställningar, kontaktuppgifter och så vidare.
+*Hirshhorn Museum, Washington*
+
+*Mål och syfte:*
+
+Att skapa intresse för museet, informera om öppettider, aktuella utställningar, kontaktuppgifter och så vidare.
 
 Man möts av åtta kvadrater, liksom kapslar med information. De är bilder och vita rubriker ovanpå, men kan också vara en video eller en informationsbox om öppettider. Logo uppe till vänster, och så en horistontell meny längst upp på höger sida. Det känns uttryckligen gridbaserat. Det mest iögonfallande är att man scrollar horisontellt. Detta är ovanligt, men man vänjer sig ganska snabbt och förstår hur det fungerar. Det finns också pilar åt höger och vänster som förtydligar. Bilderna ger färger som kontrasterar fint, annars är det svart bakgrund mot vit text.
 
@@ -46,9 +51,11 @@ Det som kännetecknar webbplatsen är den tydligt gridbaserade layouten. Åtta k
 
 Undersidorna kan innehålla mer text, med historia och bakgrund, men man möts överallt av den gridbaserade layouten, vilket utvecklas och varieras. Sidan känns balanserad på de undersidor jag besöker. Detta är en välgjord och genomtänkt sida.
 
-http://historiska.se/
+#http://historiska.se/#
 
-Mål och syfte: Som de andra museerna, ge information, skapa intresse och locka besökare.
+*Mål och syfte:*
+
+ Som de andra museerna, ge information, skapa intresse och locka besökare.
 
 Intrycket är rikt på färger, med den starka röda remsan överst, med meny. Denna kontrasterar mot en bild på en geometrisk figur med gul bakgrund. "History unfolds - Samtidskonst möter historia", är den aktuella utställningen.
 
@@ -61,11 +68,13 @@ Bakgrundsfärgerna är svart, vitt och rött. Jag kan också se balans och symme
 De undersidor jag besöker skiljer sig åt med vit bakgrund. Toppmenyn är densamma röda vilket skapar enhetlighet. Undersidorna är mer traditionella, med information, kalender och färre bilder. Svart text på vit bakgrund. De skiljer sig åt, men färger och typsnitt är de samma, och det känns som om de hänger ihop.
 
 
-http://www.zadkine.paris.fr/fr/sa-biographie
+#http://www.zadkine.paris.fr#
 
-Musée Zadkine, i Paris
+*Musée Zadkine, i Paris*
 
-Mål och syfte: Att skapa intresse för skulptören Zadkine och hans liv. Locka besökare till museet och ge de vanliga praktiska upplysningarna.
+*Mål och syfte:*
+
+ Att skapa intresse för skulptören Zadkine och hans liv. Locka besökare till museet och ge de vanliga praktiska upplysningarna.
 
 Detta museum skiljer sig åt genom att man finner lite mer information. Här finns nog på så sätt ett mer pedagogiskt syfte. Webbplatsen blir mer en del av museet, eftersom man här kan lära sig mer om denne skulptör.
 
