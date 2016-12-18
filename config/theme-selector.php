@@ -99,5 +99,31 @@ return [
               "css/fun.min.css"
             ]
         ],
+
+        "separator02" => "------------------------------------------------",
+
+        "unity"       => [
+            "title"      => "Unity",
+            "class"      => "unity",
+            "stylesheets" => [
+              "css/unity.min.css"
+            ]
+        ],
+
+        "movement"       => [
+            "title"      => "Movement",
+            "class"      => "movement",
+            "stylesheets" => [
+              "css/movement.min.css"
+            ]
+        ],
+
+        "frame"       => [
+            "title"      => "Frame",
+            "class"      => "frame",
+            "stylesheets" => [
+              "css/frame.min.css"
+            ]
+        ],
     ]
 ];

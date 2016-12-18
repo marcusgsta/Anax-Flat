@@ -94,3 +94,19 @@ Utmaningen var att använda ett triadiskt färgschema. Detta tema blev färggran
 *Typography*
 
 Till rubriker har jag använt typsnittet Great Vibes, som är ett handskrivet och snirkligt typsnitt. Menyvalen har Special Elite, som ser ut som gammaldags skrivmaskinstext. Brödtexten har Garamond.
+
+
+**Designprinciper**
+
+*Enhetlighet*
+
+Ett tema där jag har satt runda kanter på header och footer, och alla bilder, vilket bidrar till att ge ett enhetligt mjukt intryck.
+
+*Riktning och rörelse*
+
+Här har jag satt en bakgrund som är full av rörelse och riktning. Linjerna för ögat mot mitten av skärmen. Bakgrundsbilden är hämtaad ifrån [pixabay.com](https://pixabay.com/sv/bakgrund-retro-pastell-r%C3%B6relse-14820/)
+
+*Grid och inramning*
+
+Jag har ramat in de olika elementen i borders, och man kan också säga att designen bygger på ett gridsystem. Bakgrunden är en typ av grid, fast diagonal. Det har också skapats ett djup i bilden, i kontrasten mellan bakgrund och förgrund.
+Bakgrund från [freepik.com](http://freepik.com);
